@@ -76,7 +76,7 @@ Thus the python program for Class Student with a destructor, was implemented and
 Exp.No:5(c)	Multiple Inheritance
 
 ### AIM
-To Write a python Program to Calculated Division, sub & Multiplication using Multiple Inheritance..
+To Write a python Program to Calculated Division, sub & Multiplication using Multiple Inheritance.
 ### ALGORITHM
 Begin the program.
 
@@ -123,10 +123,10 @@ c.sub()
 c.mul()
 ```
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/f4959ede-568d-4162-ab31-373c5d060226)
+![image](https://github.com/gokulkrishnan2005/19CS301-Module5/blob/main/17.png)
  
 ### RESULT
-Thus the python program to get the name, attendance and Id of a student and check they are eligible for Next Module using multiple inheritance,was implemented and executed successfully.
+Thus the  python Program to Calculated Division, sub & Multiplication using Multiple Inheritance was implemented and executed successfully.
 
 
 
