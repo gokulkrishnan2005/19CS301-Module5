@@ -301,7 +301,7 @@ def main():
 main()
 
 ### OUTPUT
- ![image](https://github.com/user-attachments/assets/49f2eb5f-b9a6-4e0e-8b36-cae4cbe497e1)
+ ![image](https://github.com/gokulkrishnan2005/19CS301-Module5/blob/main/19.png)
 
 ### RESULT
 Thus the python program for Hierarchical Inheritance to get the employee details was implemented and executed successfully.
