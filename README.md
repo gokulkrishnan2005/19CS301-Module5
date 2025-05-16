@@ -197,7 +197,7 @@ person = DisplayDetails(name, age, person_id)
 print(person.show_details())
 ```
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/e87e458f-8ee8-4d8d-b2f7-a8f80354f44c)
+![image](https://github.com/gokulkrishnan2005/19CS301-Module5/blob/main/18.png)
 
  
 ### RESULT
