@@ -68,7 +68,7 @@ s2=student()
 del s2
 ```
 ### OUTPUT
- ![image](https://github.com/user-attachments/assets/bff64e83-c99e-4102-ab1d-ec15d0c3fae4)
+ ![image](https://github.com/gokulkrishnan2005/19CS301-Module5/blob/main/16.png)
 
 ### RESULT
 Thus the python program for Class Student with a destructor, was implemented and executed successfully.
